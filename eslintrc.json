@@ -123,10 +123,6 @@
     "use-isnan": 2,
     "valid-typeof": 2,
     "wrap-iife": [2, "any"],
-    "yoda": [2, "never"],
-
-    "standard/object-curly-even-spacing": [2, "either"],
-    "standard/array-bracket-even-spacing": [2, "either"],
-    "standard/computed-property-even-spacing": [2, "even"]
+    "yoda": [2, "never"]
   }
 }
