@@ -1,15 +1,16 @@
 {
-  "extends": "standard",
+    "extends": "standard",
+    "plugins": [],
 
-  "env": {
-    "browser": true,
-    "es6": true,
-    "node": true
-  },
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
 
-  "rules": {
-    "strict": [2, "global"],
-    "max-len": [0, 120, 4],
-    "indent": [2, 4]
-  }
+    "rules": {
+        "strict": [2, "global"],
+        "max-len": [0, 120, 4],
+        "indent": [2, 4]
+    }
 }
