@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm install eslint-config-hfe
+npm install --save-dev eslint-config-hfe
 ```
 
 ## Usage
@@ -16,14 +16,14 @@ official ESLint website.
 To use the HFE JavaScript Standard Style shareable config, first run this:
 
 ```bash
-npm install eslint-config-hfe
+npm install --save-dev eslint-config-hfe
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": "hfe"
+  "extends": "eslint-config-hfe"
 }
 ```
 
