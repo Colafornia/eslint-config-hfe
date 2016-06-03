@@ -10,7 +10,7 @@
     "node": true
   },
 
-  "plugins": [],
+  "plugins": ["hfe"],
 
   "globals": {
     "document": false,
@@ -121,6 +121,12 @@
     "use-isnan": 2,
     "valid-typeof": 2,
     "wrap-iife": [2, "any"],
-    "yoda": [2, "never"]
+    "yoda": [2, "never"],
+    "hfe/default-para-last": 2,
+    "hfe/for-condition": 2,
+    "hfe/for-direction": 2,
+    "hfe/no-label-in-switch": 2,
+    "hfe/short-circuit-prevent-null-pointer": 2,
+    "hfe/new-function": 2
   }
 }
