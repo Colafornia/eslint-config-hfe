@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-hfe",
   "description": "HFE JavaScript Code Style",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": {
     "name": "Guokai(PaulGuo)",
     "email": "badkaikai@gmail.com",
@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "eslint": "^2.11.1",
-    "eslint-plugin-hfe": "0.0.2",
+    "eslint-plugin-hfe": "^0.0.3",
     "tape": "^4.0.0"
   },
   "dependencies": {
