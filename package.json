@@ -16,7 +16,7 @@
     "tape": "^4.0.0"
   },
   "dependencies": {
-    "eslint-plugin-hfe": "0.0.2"
+    "eslint-plugin-hfe": "^0.0.3"
   },
   "homepage": "https://github.com/PaulGuo/eslint-config-hfe",
   "keywords": [
