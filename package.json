@@ -13,6 +13,7 @@
   "devDependencies": {
     "eslint": "^2.11.1",
     "eslint-plugin-hfe": "^0.0.3",
+    "eslint-plugin-scissors": "^0.3.0",
     "tape": "^4.0.0"
   },
   "dependencies": {

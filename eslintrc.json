@@ -10,7 +10,7 @@
     "node": true
   },
 
-  "plugins": ["hfe"],
+  "plugins": ["hfe", "scissors"],
 
   "globals": {
     "document": false,
@@ -127,6 +127,7 @@
     "hfe/for-direction": 2,
     "hfe/no-label-in-switch": 2,
     "hfe/short-circuit-prevent-null-pointer": 2,
-    "hfe/new-function": 2
+    "hfe/new-function": 2,
+    "scissors/nested-expressions": [1, { "skip": ["window", "document"] }]
   }
 }
